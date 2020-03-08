@@ -1,5 +1,5 @@
 from web3 import Web3
-from settings.vars import key, wallet
+from props.vars import key, wallet
 
 infura_url = f'https://mainnet.infura.io/v3/{key}'
 
